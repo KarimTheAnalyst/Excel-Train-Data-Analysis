@@ -11,22 +11,27 @@ Built a **complete analytics solution** from raw data to interactive dashboard u
 
 ### Main Dashboard
 ![Dashboard Overview](dashboard_overview.png)
+
 *Interactive dashboard with KPI cards, charts, and slicers*
 
 ### KPI Cards
 ![KPI Cards](kpi_cards.png)
+
 *Key performance indicators: Revenue, Journeys, On-Time %, Delay*
 
 ### Revenue Analysis
 ![Revenue Trend](revenue_trend.png)
+
 *Monthly revenue trend showing consistent performance across months*
 
 ### Station Performance
 ![Station Performance](station_performance.png)
+
 *Average delay by departure station - identifying operational challenges*
 
 ### Journey Status Distribution
-![Journey Status](screenshots/journey_status.png)
+![Journey Status](journey_status.png)
+
 *92.30% on-time performance across 29,773 journeys*
 ---
 ## Business Objectives
