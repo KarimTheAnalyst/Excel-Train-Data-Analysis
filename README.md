@@ -299,7 +299,6 @@ Average Ticket Price := AVERAGE([Price])
 Excel-Train-Data-Analysis/
 ├── UK_Train_Analysis.xlsx          # Main workbook with data model & dashboard
 ├── README.md                       # This file
-├── DATA_QUALITY_REPORT.md          # Detailed data cleaning documentation
 ├── data/
 │   └── train_journeys.csv          # Original dataset (29,773 records)
 ├── screenshots/
@@ -309,7 +308,7 @@ Excel-Train-Data-Analysis/
 │   └── station_performance.png     # Station delay analysis
 └── documentation/
     ├── DAX_Measures.md             # DAX formula documentation
-    └── Power_Query_Transformations.md  # ETL process details
+
 ```
 
 ---
@@ -440,17 +439,7 @@ Excel-Train-Data-Analysis/
 
 4. **Excel Dashboard Best Practices**
    - KPI design
-   - Interactive visualization
-
----
-
-## Contributing
-
-This is a portfolio project demonstrating analytical capabilities. For questions or suggestions:
-
-1. Review the `DATA_QUALITY_REPORT.md` for methodology
-2. Check `documentation/` folder for technical details
-3. Examine DAX formulas in Power Pivot for implementation details
+   - Interactive visualizatio
 
 ---
 
@@ -468,8 +457,6 @@ Aspiring Data Analyst | PhD in Physics | R&D Professional | GitHub: KarimTheAnal
 **
 
 - 📧 Email:karimupds@gmail.com
-- 💼 LinkedIn: 
-- 🌐 Portfolio: [Your Portfolio Website]
 
 --
 
@@ -477,5 +464,5 @@ Aspiring Data Analyst | PhD in Physics | R&D Professional | GitHub: KarimTheAnal
 
 - Dataset: Maven Analytics - UK Train Rides Dataset
 - Tools: Microsoft Excel, Power Query, Power Pivot, DAX
-- Methodology: Enterprise analytics best practices
+
 
